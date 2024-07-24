@@ -29,25 +29,25 @@ export default function Projects() {
 
   const works = [
     {
-      client: "preezie",
-      year: "2023",
+      client: "Ultraverse NFT WORLD",
+      year: "2024",
       img: work1,
-      title: "Building from the ground up",
-      detail: "Working at a startup brought the opportunity to bring many projects from their early days of development to a fully fledged application, I've had the opportunity to be a core part of multiple projects at preezie.",
+      title: "Front-end Developer Internship",
+      detail: "Working at Ultraverse NFT World allowed me to contribute to multiple projects from inception to completion. I played a key role in developing core features and enhancing the user experience.",
     },
     {
-      client: "Frontend Simplified",
-      year: "2022",
+      client: "Patch To Life",
+      year: "2019-2023",
       img: work2,
-      title: "Mentoring the next generation of junior programmers",
-      detail: "Empowering students with the knowledge and skills they need to succeed in the dynamic field of programming. Having tutored 100's of students within the Frontend simplified curriculum, this gives me a great inspiration to lead.",
+      title: "Founder & Lead Developer",
+      detail: "Leading development at Patch to Life allowed me to transform numerous projects from concept to completion. As a key figure, I drove the development of our e-commerce platform, implementing advanced features and ensuring an exceptional user experience.",
     },
     {
-      client: "Personal project",
-      year: "2023",
+      client: "Twitter-Clone",
+      year: "2024",
       img: work3,
-      title: "WoWdle - the daily world of warcraft guessing game",
-      detail: "Having over 100,000+ users in the first month, this tested my ability to scale and succeed. A small WoW based game mixed in with elements of wordle. Check it out on wowdle.app",
+      title: "Full Stack Developer",
+      detail: "Developing the full-stack Twitter Clone allowed me to create a comprehensive social media platform from the ground up. I implemented essential features such as user authentication, real-time updates, and responsive design. This project utilized React, Redux, Firebase, and Tailwind CSS, demonstrating my proficiency in handling both front-end and back-end development tasks, ensuring a seamless and engaging user experience.",
     },
   ]
 
