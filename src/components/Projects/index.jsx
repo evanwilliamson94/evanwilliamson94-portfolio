@@ -36,7 +36,7 @@ export default function Projects() {
       detail: "Working at Ultraverse NFT World allowed me to contribute to multiple projects from inception to completion. I played a key role in developing core features and enhancing the user experience.",
     },
     {
-      client: "Patch To Life",
+      client: "Patch To Life (sold company)",
       year: "2019-2023",
       img: work2,
       title: "Founder & Lead Developer",
@@ -48,6 +48,7 @@ export default function Projects() {
       img: work3,
       title: "Full Stack Developer",
       detail: "Developing the full-stack Twitter Clone allowed me to create a comprehensive social media platform from the ground up. I implemented essential features such as user authentication, real-time updates, and responsive design. This project utilized React, Redux, Firebase, and Tailwind CSS, demonstrating my proficiency in handling both front-end and back-end development tasks, ensuring a seamless and engaging user experience.",
+      link: "https://tweet-clone-beryl.vercel.app/"
     },
   ]
 
@@ -96,7 +97,7 @@ export default function Projects() {
 
         <motion.div initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 1 }} onAnimationComplete={() => handleComplete()} className="projects--grid--detail">
           <p className="theme--detail">
-            <ScrambleText delay={1}>Discover a curated portfolio of projects where each line of code tells a story of problem-solving, creativity, and technical finesse.</ScrambleText>
+            <ScrambleText delay={1}>Explore a meticulously curated portfolio showcasing projects that exemplify problem-solving, creativity, and technical expertise with every line of code.</ScrambleText>
           </p>
         </motion.div>
       </div>

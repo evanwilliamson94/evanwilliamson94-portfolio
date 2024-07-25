@@ -5,8 +5,9 @@ import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 import FadeText from "../FadeText"
 import HideText from "../HideText"
+import React from "react"
 
-export default function TechCard({ item }) {
+export default function TechCard({ item, link }) {
   const controls = useAnimation()
   const [ref, inView] = useInView()
   const [hasAnimated, setHasAnimated] = useState(false)
