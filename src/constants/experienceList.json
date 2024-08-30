@@ -3,17 +3,10 @@
     "company": "Ultraverse NFT WORLD",
     "role": "Software Developer (Intern)",
     "resps": [
-      "Developed and integrated dynamic features such as Hot Collections, New Items, Top Sellers, Author Page, and Item Details, significantly enhancing the platform's user interface and interaction.",
-      "Designed and implemented engaging animations, countdowns, and carousels that increased user engagement and retention.",
-      "Utilized APIs to fetch and display real-time data, ensuring the latest and most relevant information was always available to users.",
-      "Managed the project lifecycle using GitHub, creating and maintaining separate branches for each feature to streamline development and facilitate effective team collaboration.",
-      "Conducted thorough code reviews and debugging sessions to ensure the highest quality of code and functionality.",
-      "Collaborated with the design team to translate UI/UX designs into functional features, ensuring a seamless user experience.",
-      "Achieved extensive hands-on experience with professional GitHub workflows, enhancing version control and team collaboration.",
-      "Contributed to improving the platform's performance and scalability by optimizing code and implementing best practices.",
-      "Engaged in continuous learning and application of new technologies and frameworks to stay current in the rapidly evolving tech landscape.",
-      "Demonstrated strong problem-solving skills by addressing complex technical challenges and providing effective solutions.",
-      "Gained valuable experience in remote team collaboration, utilizing tools like Slack, Trello, and Zoom to maintain clear and efficient communication."
+      "Enhanced User Engagement: Developed and integrated features like Hot Collections, New Items, Top Sellers, Author Page, and Item Details, which enriched the platform's content offerings and provided users with more personalized and relevant information, leading to increased user interaction.",
+      "Enhanced User Experience: Implemented animations, countdowns, and carousels that created a more dynamic and engaging user interface, leading to a smoother and more interactive browsing experience for users.",
+      "Real-Time Data Integration: Utilized APIs to provide real-time data updates, improving the relevance and timeliness of displayed content.",
+      "Streamlined Development Workflow: Managed project development with GitHub, ensuring smooth collaboration by maintaining separate branches for each feature."
     ],
     "date": "May 2024 - July 2024"
   },
@@ -21,17 +14,12 @@
     "company": "Patch To Life-(sold company)",
     "role": "Founder & Lead Developer",
     "resps": [
-      "Founded and led an e-commerce business, developing a transdermal vitamin patch to prevent hangovers.",
-      "Oversaw product development and websit maintence using HTML5, CSS, JavaScript, and Mailchimp for marketing automation.",
-      "Architected a robust front-end framework to deliver a seamless user experience, integrating advanced animation, countdowns, and carousels to boost user interaction and engagement.",
-      "Leveraged Firebase for backend services, including user authentication and real-time database management, ensuring secure and efficient data handling.",
-      "Implemented SEO best practices, resulting in improved search engine rankings and increased organic traffic.",
-      "Managed marketing campaigns through Mailchimp, effectively reaching and engaging with a broad customer base.",
-      "Analyzed user behavior and feedback to continuously improve the website's functionality and user experience.",
-      "Successfully scaled the business, achieving significant growth and culminating in a profitable exit, demonstrating strong business acumen and strategic planning.",
-      "Managed all social media platforms, generating over 500,000 followers and leading strategic marketing efforts.",
-      "Achieved the position of the number one seller on Amazon for this product category.",
-      "Coded separate landing pages and websites for A/B testing, enhancing user engagement and conversion rates."
+      "Built a Profitable Business: Founded and scaled an e-commerce business, leading to a successful exit by implementing a robust front-end architecture using HTML5, CSS, and JavaScript, resulting in a seamless user experience.",
+      "Increased Operational Efficiency: Utilized Firebase for backend services, including user authentication and real-time database management, reducing customer support response times ",
+      "Boosted Organic Traffic: Integrated SEO best practices that increased search engine visibility, driving a rise in organic traffic.",
+      "Ensured High Availability: Implemented backend monitoring for UI uptime with automated email alerts, maintaining a 99.9% uptime and enhancing customer satisfaction.",
+      "Effective Product Marketing: Developed dynamic carousels and countdowns, particularly optimized for mobile devices, significantly improving product visibility and sales conversion rates.",
+      "Successfully scaled the business, resulting in a profitable exit."
       
     ],
     "date": "Oct 2019 - Nov 2023"

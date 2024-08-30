@@ -7,6 +7,7 @@ import ParaWriting from "../ParaWriting"
 import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 
+
 import work1 from "../../assets/Images/work1.png"
 import work2 from "../../assets/Images/work2.png"
 import work3 from "../../assets/Images/work3.png"
@@ -34,6 +35,7 @@ export default function Projects() {
       img: work1,
       title: "Front-end Developer Internship",
       detail: "Working at Ultraverse NFT World allowed me to contribute to multiple projects from inception to completion. I played a key role in developing core features and enhancing the user experience.",
+      url: "https://ultraverse-tau.vercel.app" 
     },
     {
       client: "Patch To Life (sold company)",
@@ -44,11 +46,12 @@ export default function Projects() {
     },
     {
       client: "Twitter-Clone",
+      url: "https://tweet-clone-beryl.vercel.app/",
       year: "2024",
       img: work3,
       title: "Full Stack Developer",
       detail: "Developing the full-stack Twitter Clone allowed me to create a comprehensive social media platform from the ground up. I implemented essential features such as user authentication, real-time updates, and responsive design. This project utilized React, Redux, Firebase, and Tailwind CSS, demonstrating my proficiency in handling both front-end and back-end development tasks, ensuring a seamless and engaging user experience.",
-      link: "https://tweet-clone-beryl.vercel.app/"
+      
     },
   ]
 
