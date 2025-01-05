@@ -1,5 +1,16 @@
 [
   {
+    "company": "SoberSocial",
+    "role": "Founder & Lead Developer",
+    "resps": [
+      "Designed Core Systems: Built scalable, full-stack features including user authentication, real-time data synchronization, and profile management using Clerk and NeonDB.",
+      "Launched Social Features: Developed dynamic community features like photo uploads, likes, and comments, integrating AWS S3 and serverless APIs. Sobriety and financial tracking too. ",
+      "Enhanced Usability: Delivered an intuitive, responsive interface with Tailwind CSS and Framer Motion, significantly improving user engagement.",
+      "Impact: Secured over 100 active users in the first month, paving the way for a projected $115,000 annual revenue."
+    ],
+    "date": "August 2024 - Current"
+  },
+  {
     "company": "Ultraverse NFT WORLD",
     "role": "Software Developer (Intern)",
     "resps": [
@@ -14,12 +25,12 @@
     "company": "Patch To Life-(sold company)",
     "role": "Founder & Lead Developer",
     "resps": [
-      "Built a Profitable Business: Founded and scaled an e-commerce business, leading to a successful exit by implementing a robust front-end architecture using HTML5, CSS, and JavaScript, resulting in a seamless user experience.",
-      "Increased Operational Efficiency: Utilized Firebase for backend services, including user authentication and real-time database management, reducing customer support response times ",
-      "Boosted Organic Traffic: Integrated SEO best practices that increased search engine visibility, driving a rise in organic traffic.",
-      "Ensured High Availability: Implemented backend monitoring for UI uptime with automated email alerts, maintaining a 99.9% uptime and enhancing customer satisfaction.",
-      "Effective Product Marketing: Developed dynamic carousels and countdowns, particularly optimized for mobile devices, significantly improving product visibility and sales conversion rates.",
-      "Successfully scaled the business, resulting in a profitable exit."
+      "Designed and developed a high-performing e-commerce website using HTML, CSS, and JavaScript, ensuring a seamless and intuitive user experience.",
+      "Implemented SEO best practices to optimize search engine visibility, driving nationwide traffic and consistent sales growth.",
+      "Built a Firebase-powered backend for efficient order processing and real-time data management.",
+      "Created and executed email marketing campaigns using JavaScript to engage customers and drive repeat sales.",
+      "Single-handedly managed product design, branding, and marketing, resulting in the successful sale of the business to a holistic company in Costa Rica.",
+      "Delivered an exceptional UI and UX, providing customers with a streamlined and visually appealing online shopping experience for transdermal vitamin patches."
       
     ],
     "date": "Oct 2019 - Nov 2023"

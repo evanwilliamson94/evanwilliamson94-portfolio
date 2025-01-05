@@ -75,7 +75,7 @@ export default function Resume() {
                   <Icon img={linkedinIcon} />
                 </a>
 
-                <a href="./Evan Williamson 2024 Resume .pdf" target="_blank">
+                <a href="./2025 Resume Evan Williamson.pdf" target="_blank">
 
                   <Icon img={fileIcon} />
                 </a>

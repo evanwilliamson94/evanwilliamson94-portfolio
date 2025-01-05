@@ -64,7 +64,7 @@ export default function About() {
 
         <motion.div initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 2 }} onAnimationComplete={() => handleComplete()} className="about--detail">
           <p className="theme--detail--dark">
-            <ScrambleText delay={2}>As a recent graduate from the Front End Institute of Technology with a certificate in front-end development, I have honed my skills through challenging internships and hands-on projects. My experience includes tackling complex engineering problems alongside talented software engineers, continuously enhancing my knowledge and capabilities. Always eager to learn and grow, I'm ready to bring fresh perspectives and expertise to your team.</ScrambleText>
+            <ScrambleText delay={2}>Innovative full-stack software developer with 6+ years of experience building scalable, user-focused applications that drive business growth and enhance digital experiences. Renowned for spearheading impactful projects like SoberSocial, a groundbreaking social media platform fostering sober living communities. Known for combining cutting-edge technical expertise with a creative mindset honed through producing and was the cinematographer for a feature film streamed over 5 million times. Adept at translating complex ideas into elegant, user-friendly solutions, while leveraging a substantial social media following of 600,000+ to promote meaningful initiatives.</ScrambleText>
           </p>
         </motion.div>
 

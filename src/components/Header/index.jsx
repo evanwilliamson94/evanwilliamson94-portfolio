@@ -80,7 +80,7 @@ export default function Header() {
             </ScrambleText>
           </a>
           <span className="header--hash">{"//"}</span>
-          <a href="./Evan Williamson 2024 Resume .pdf" target={"_blank"} rel="noopener noreferrer">
+          <a href="./2025 Resume Evan Williamson.pdf" target={"_blank"} rel="noopener noreferrer">
             <ScrambleText shuffle delay={1.5}>
               RESUME
             </ScrambleText>
@@ -98,7 +98,7 @@ export default function Header() {
           </h3>
           <p className="theme--detail">
             <ScrambleText shuffle delay={4}>
-            Hello, I’m Evan, a dedicated junior software developer. I work on engineering challenges daily, collaborating with a skilled team. My goal is to continually enhance my web development skills, using my expertise to contribute to technological progress and societal advancement.
+            Hello, I’m Evan, a passionate full-stack software developer. I tackle complex engineering challenges daily, collaborating with dynamic teams to deliver innovative, scalable solutions. Driven by a commitment to continuous growth, I leverage my technical expertise to create impactful web applications that drive technological innovation and improve lives.
             </ScrambleText>
           </p>
         </div>
@@ -131,7 +131,7 @@ export default function Header() {
       <h1 className="header--name">
         <TextWriting controls={controls} text={"Evan Williamson"} noblink />
         <br />
-        <TextWriting controls={controls} delay={1.65} text={"Frontend"} noblink />{" "}
+        <TextWriting controls={controls} delay={1.65} text={"Full Stack"} noblink />{" "}
         <motion.div initial="hidden" animate={controls} variants={nameVariants} className="header--name--sec">
           <TextWriting controls={controls} delay={2.85} text={"Developer"} noblink />
           <div className="header--name--border">
